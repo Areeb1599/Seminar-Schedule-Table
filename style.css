@@ -1,0 +1,19 @@
+table,th,td{
+    border:1px solid black;
+}
+td,th{
+    text-align: center;
+    color: black;
+}
+body{
+    padding: 10px;
+    background-color: aliceblue;
+}
+h1{
+    font-size: 50px;
+    color: black;
+}
+table{
+    width: 70%;
+    height: 400px;
+}
